@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Thamizhini 👋
 
-<!--
-**Thamizhini32/Thamizhini32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+I'm a passionate developer interested in web development and software development.
 
-Here are some ideas to get you started:
+## 🎓 Education
+- Diploma in Software Engineering – [SLGTI]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Web Development
+- Responsive Design
+- Git & GitHub
+
+## 💻 Programming Languages
+- HTML
+- CSS
+- JavaScript
+- Java
+
+## 🔧 Tools
+- Git
+- GitHub
+- VS Code
+
+## 🚀 Projects
+- My First portfolio website
+- Library book management system
+  
+## 📊 GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[USERNAME]&show_icons=true)
+
+## 📫 Contact
+- GitHub: https://github.com/Thamizhini32
+- Email: thamizhinithamizh1@gmail.com
